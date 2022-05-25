@@ -1,0 +1,2 @@
+#incould helloword.h
+string inputstr, outputstr, tempstr;
